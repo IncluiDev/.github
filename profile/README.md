@@ -93,6 +93,17 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 ![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
+### FERRAMENTAS
+
+![Intellij](https://img.shields.io/badge/intellij-0D1117?style=for-the-badge&logo=intellij-idea&logoColor=white&labelColor=0D1117)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual%20studio%20code&logoColor=white&labelColor=0D1117)&nbsp;
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=Git&logoColor=white&labelColor=0D1117)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-0D1117?style=for-the-badge&logo=github&labelColor=0D1117)&nbsp;
+![Railway](https://img.shields.io/badge/Railway-0D1117?style=for-the-badge&logo=railway&labelColor=0D1117)&nbsp;
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=Postman&logoColor=white&labelColor=0D1117)&nbsp;
+![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma&logoColor=white&labelColor=0D1117)&nbsp;
+![Trello](https://img.shields.io/badge/trello-0D1117?style=for-the-badge&logo=trello&logoColor=white&labelColor=0D1117)&nbsp;
+
 #
 ### SITE
 
