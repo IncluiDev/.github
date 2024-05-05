@@ -1,5 +1,3 @@
-<h1 align=center>INCLUIDEV</h1>
-
 <p align="center">
   <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/banner.png" style="border-radius: 15px;">
 </p>
