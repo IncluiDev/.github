@@ -1,7 +1,7 @@
 <h1 align=center>INCLUIDEV</h1>
 
 <p align="center">
-  <img src="../pictures/banner.png" style="border-radius: 15px;">
+  <img src="pictures/banner.png" style="border-radius: 15px;">
 </p>
 
 #
@@ -18,7 +18,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
   <tr>
   <td align="center">
       <a href="https://github.com/kaiquesouzasantos" title="Github Kaique">
-        <img src="../pictures/KAIQUE.jpeg" width="150px;" alt="Foto de Kaique Souza Santos"/><br>
+        <img src="pictures/KAIQUE.jpeg" width="150px;" alt="Foto de Kaique Souza Santos"/><br>
         <sub>
           <b>Kaique</b>
         </sub>
@@ -27,7 +27,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/HenryModesto" title="Github Henry">
-        <img src="../pictures/HENRY.jpeg" width="150px;" alt="Foto de Henry Oliveira Modesto De Jesus"/><br>
+        <img src="pictures/HENRY.jpeg" width="150px;" alt="Foto de Henry Oliveira Modesto De Jesus"/><br>
         <sub>
           <b>Henry</b>
         </sub>
@@ -35,7 +35,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/Kayk-Dev" title="Github Kayky">
-        <img src="../pictures/KAYKY.jpeg" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
+        <img src="pictures/KAYKY.jpeg" width="150px;" alt="Foto de Kayk Messias Gomes"/><br>
         <sub>
           <b>Kayk</b>
         </sub>
@@ -43,7 +43,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/adriele7" title="Github Adriele">
-        <img src="../pictures/ADRIELE.jpeg" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
+        <img src="pictures/ADRIELE.jpeg" width="150px;" alt="Foto de Adriele Lima Santos"/><br>
         <sub>
           <b>Adriele</b>
         </sub>
@@ -51,7 +51,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/IgorOdSilva" title="Github Igor">
-        <img src="../pictures/IGOR.jpeg" width="150px;" alt="Foto de Igor Oliveira Da Silva"/><br>
+        <img src="pictures/IGOR.jpeg" width="150px;" alt="Foto de Igor Oliveira Da Silva"/><br>
         <sub>
           <b>Igor</b>
         </sub>
@@ -59,7 +59,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/eulineaguiar" title="Github Aline">
-        <img src="../pictures/ALINE.jpeg" width="150px;" alt="Foto de Aline Aguiar Da Silva"/><br>
+        <img src="pictures/ALINE.jpeg" width="150px;" alt="Foto de Aline Aguiar Da Silva"/><br>
         <sub>
           <b>Aline</b>
         </sub>
@@ -67,7 +67,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     </td>
     <td align="center">
       <a href="https://github.com/leoduarte14" title="Github Leonardo">
-        <img src="../pictures/LEONARDO.jpeg" width="150px;" alt="Foto de Leonardo Duarte Pereira"/><br>
+        <img src="pictures/LEONARDO.jpeg" width="150px;" alt="Foto de Leonardo Duarte Pereira"/><br>
         <sub>
           <b>Leonardo</b>
         </sub>
