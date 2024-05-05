@@ -1,7 +1,7 @@
 <h1 align=center>INCLUIDEV</h1>
 
 <p align="center">
-  <img src="profile/pictures/banner.png" style="border-radius: 15px;">
+  <img src="pictures/banner.png" style="border-radius: 15px;">
 </p>
 
 #
