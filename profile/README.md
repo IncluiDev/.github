@@ -123,3 +123,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
     <img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&labelColor=0D1117">
 </a>
 </div>
+
+<p align="center">
+  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/rodape.png" style="border-radius: 15px;">
+</p>
