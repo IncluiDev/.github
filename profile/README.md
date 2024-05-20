@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/banner-incluidev.png" style="border-radius: 15px;">
+  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/banner-readme.png" style="border-radius: 15px;">
 </p>
 
 #
