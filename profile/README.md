@@ -125,5 +125,5 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 </div>
 
 <p align="center">
-  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/rodape.png" style="border-radius: 15px;">
+  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/rodape-readme.png" style="border-radius: 15px;">
 </p>
