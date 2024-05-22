@@ -12,7 +12,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 #
 ### EQUIPE
 
-<table>
+<table align="center">
   <tr>
   <td align="center">
       <a href="https://github.com/kaiquesouzasantos" title="Github Kaique">
@@ -77,7 +77,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 #
 ### MENTOR
 
-<table>
+<table align="center">
   <tr>
   <td align="center">
       <a href="https://www.linkedin.com/in/edsonfmarques" title="LinkedIn">
