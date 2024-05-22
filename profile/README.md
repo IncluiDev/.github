@@ -81,7 +81,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
   <tr>
   <td align="center">
       <a href="https://www.linkedin.com/in/edsonfmarques" title="LinkedIn">
-        <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/EDSON.jpg" width="150px;" alt="Foto de Edson Fernandes Marques da Silva"/><br>
+        <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/EDSON.jpg" width="125px;" alt="Foto de Edson Fernandes Marques da Silva"/><br>
         <sub>
           <b>Edson Fernandes</b>
         </sub>
