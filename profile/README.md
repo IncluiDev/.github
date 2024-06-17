@@ -94,7 +94,7 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 ### ARQUITETURA
 
 <p align="center">
-  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/fluxo-aplicacao.png" style="border-radius: 15px;">
+  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/fluxo-aplicacao.png" style="width: 700px;">
 </p>
 
 #
