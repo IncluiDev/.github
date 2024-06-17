@@ -91,6 +91,13 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 </table>
 
 #
+### ARQUITETURA
+
+<p align="center">
+  <img src="https://github.com/IncluiDev/.github/blob/main/profile/pictures/fluxo-aplicacao.png" style="border-radius: 15px;">
+</p>
+
+#
 ### TECNOLOGIAS
 
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
