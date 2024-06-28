@@ -3,7 +3,7 @@
 </p>
 
 #
-### SOBRE NOS
+### SOBRE NÓS
 
 <p align="justify">
 Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados para auxiliar no desenvolvimento de pessoas com deficiências que queiram ingressar no mercado tecnológico, equiparada com ferramentas didáticas e comunicação constante durante o processo lúdico. Com o objetivo de garantir que todas as pessoas tenham acesso igualitário a oportunidades, recursos e participação no mercado tecnológico, não somente incluindo, mas tornando-as pertencentes.
@@ -110,7 +110,6 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 ![Hibernate](https://img.shields.io/badge/Hibernate-0D1117?style=for-the-badge&logo=Hibernate&logoColor=239120&labelColor=0D1117)&nbsp;
 ![Swagger](https://img.shields.io/badge/Swagger-0D1117?style=for-the-badge&logo=Swagger&logoColor=85EA2D&labelColor=0D1117)&nbsp;
 ![Maven](https://img.shields.io/badge/apache_maven-0D1117?style=for-the-badge&logo=apachemaven&logoColor=E34F26&labelColor=0D1117)&nbsp;
-![JUnit5](https://img.shields.io/badge/Junit5-0D1117?style=for-the-badge&logo=junit5&logoColor=25A162&labelColor=0D1117)&nbsp;
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-0D1117?style=for-the-badge&logo=postgresql&labelColor=0D1117)&nbsp;
 
 ### FERRAMENTAS
@@ -126,6 +125,8 @@ Somos uma plataforma educacional contendo jogos, dinâmicas e cursos voltados pa
 
 #
 ### SITE
+
+[Acesse nossa plataforma](https://incluidev.vercel.app)
 
 #
 ### REDES SOCIAIS
